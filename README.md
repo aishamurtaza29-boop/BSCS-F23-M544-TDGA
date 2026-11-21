@@ -26,6 +26,8 @@ Google Drive link::
 https://drive.google.com/file/d/1FntC-eR21HI4RS1HltKehKEgLHmzcbnM/view?usp=sharing
 APK link:
 https://drive.usercontent.google.com/download?id=1FntC-eR21HI4RS1HltKehKEgLHmzcbnM&export=download&authuser=0&confirm=t&uuid=6d107df4-e0c3-49c2-aaa3-172a6c743309&at=AMrWOn2l7nmy8JlkXpr9On-RVOL8:1795259908850
+<img width="809" height="443" alt="image" src="https://github.com/user-attachments/assets/02753d89-a88b-423a-aa59-15b444be190c" />
+
 
 
 
